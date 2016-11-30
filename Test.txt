@@ -1,1 +1,5 @@
 Test txt datoteka 2
+Drugi red
+Treći red
+Četvrti red
+Peti red
